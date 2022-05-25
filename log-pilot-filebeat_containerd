@@ -1,0 +1,1 @@
+FROM williamguozi/log-pilot-filebeat:containerd-210702
